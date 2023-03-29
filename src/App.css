@@ -1,0 +1,14 @@
+#root {
+  width: calc(100% - 80px);
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+.App {
+  height: calc(100vh - 80px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+}
